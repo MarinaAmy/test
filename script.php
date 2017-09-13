@@ -2,6 +2,6 @@
 <?php
 
 foreach(['toto','chuck','steven'] as $name){
-	echo $name . "\n";
+	echo " Hello $name" . "\n";
 }
 
