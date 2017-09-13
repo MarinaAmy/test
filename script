@@ -1,0 +1,12 @@
+#!/bin/bash 
+
+NAME=$1 
+
+echo "Script $NAME"
+
+echo "Aimez-vous le PHP ? "
+read RESPONSE
+
+echo "Votre réponse : $RESPONSE " 
+
+
